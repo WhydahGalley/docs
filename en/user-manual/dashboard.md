@@ -33,4 +33,4 @@ Total and chart widgets are displayed under the default currency. Invoices, reve
 
 ## Apps
 
-Apps can also create a sparate dashboard with their specific widgets. For example, the [CRM](https://akaunting.com/apps/crm) app creates its own dashboard with widgets concentrated in customer relationship. The same process is available for [Payroll](https://akaunting.com/apps/payroll), [Double-Entry](https://akaunting.com/apps/double-entry), and lots of apps.
+Apps can also create a separate dashboard with their specific widgets. For example, the [CRM](https://akaunting.com/apps/crm) app creates its own dashboard with widgets concentrated in customer relationship. The same process is available for [Payroll](https://akaunting.com/apps/payroll), [Double-Entry](https://akaunting.com/apps/double-entry), and lots of apps.
